@@ -5,6 +5,7 @@
 * Discord Logs For Purchase / Add to Shop
 * Fix When Player Purchase Stacked Item Only 1x of the item price will go to soc funds
 * Floating Blip with Text 
+* If Shop Needs a Weapon License Before Can By or Drivers There's a Option in Config
 This resource was created as a free script to allow those with ox_inventory to have player owned shops
 
 ## Features
