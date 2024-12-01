@@ -1,5 +1,10 @@
-# wasabi_oxshops
+# wasabi_oxshops - Original Maker
+# Modified By Hairi Raven - (CAT DEVELOPMENT)
 
+## UPDATED FEATURES 
+* Discord Logs For Purchase / Add to Shop
+* Fix When Player Purchase Stacked Item Only 1x of the item price will go to soc funds
+* Floating Blip with Text 
 This resource was created as a free script to allow those with ox_inventory to have player owned shops
 
 ## Features
