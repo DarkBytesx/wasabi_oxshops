@@ -1,11 +1,11 @@
-# wasabi_oxshops - Original Maker
+# [wasabi_oxshops]
 # Modified By Hairi Raven - (CAT DEVELOPMENT)
 
 ## UPDATED FEATURES 
-* Discord Logs For Purchase / Add to Shop
-* Fix When Player Purchase Stacked Item Only 1x of the item price will go to soc funds
-* Floating Blip with Text 
-* If Shop Needs a Weapon License Before Can By or Drivers There's a Option in Config
+✅ Discord Logs for Purchases & Shop Additions – Tracks transactions and updates.
+✅ Fix for Stacked Item Pricing – Ensures the correct amount goes to society funds.
+✅ Floating Blip with Text – Adds a visible floating marker for shops.
+✅ License Requirement Config – Allows requiring a weapon license or driver’s license before purchasing.
 This resource was created as a free script to allow those with ox_inventory to have player owned shops
 
 ## Features
